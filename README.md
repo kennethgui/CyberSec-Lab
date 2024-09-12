@@ -8,12 +8,12 @@ What is there to gain from this lab you ask? Well, this lab consist of attacking
 
 ## Tech stack
 
-## VirtualBox
-## Windows Server 2022
-## Windows 10
-## Kali
-## Metaspliot
-## Metasploitable
-## Splunk
+### VirtualBox
+### Windows Server 2022
+### Windows 10
+### Kali
+### Metaspliot
+### Metasploitable
+### Splunk
 
 ##
